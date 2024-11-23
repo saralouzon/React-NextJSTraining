@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+
+ul {
+    list-style-type: none; 
+    border: 1px solid black;
+    background-color: lightgray; 
+    margin: 0 auto; 
+    padding: 10px;
+    width: 200px;
+
+  }
+  
+  ul li {
+    font-weight: bold;
+    color: green;
+  }
+  
